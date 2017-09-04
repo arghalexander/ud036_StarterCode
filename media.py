@@ -1,6 +1,7 @@
 class Movie():
 
 	'''
+	A simple class to store movie data.
 	When you need to create a new instance, pass this data to the constructor. 
 	You can then call it using instance.title, or similar.
 	'''
