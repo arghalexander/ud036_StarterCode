@@ -24,3 +24,9 @@ avatar = Movie(
 movies = (walle, up, avatar)
 
 open_movies_page(movies)
+'''
+This function opens the created list of movies,
+generates an HTML file with the movies inside,
+saves said file, and opens a new browser tab
+from the HTML file.
+'''
